@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "eventId": "BT2425SW",
+      "description": "World Cup Östersund - Sprint Women",
+      "startTime": "2024-11-30T12:45:00+01:00",
+      "discipline": "Sprint",
+      "location": "Östersund, SWE",
+      "category": "World Cup",
+      "status": "scheduled",
+      "url": "https://biathlonresults.com/"
+    },
+    {
+      "eventId": "BT2425SM",
+      "description": "World Cup Östersund - Individual Men",
+      "startTime": "2024-12-01T14:15:00+01:00",
+      "discipline": "Individual",
+      "location": "Östersund, SWE",
+      "category": "World Cup",
+      "status": "scheduled",
+      "url": "https://biathlonresults.com/"
+    }
+  ]
+}
