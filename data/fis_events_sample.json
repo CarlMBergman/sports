@@ -1,0 +1,28 @@
+{
+  "races": [
+    {
+      "id": 555,
+      "competition": "Cross-Country World Cup",
+      "name": "World Cup Davos - Men 15km",
+      "date": "2024-12-08",
+      "time": "11:30",
+      "timezone": "Europe/Zurich",
+      "discipline": "Cross-country",
+      "location": "Davos, SUI",
+      "athletes": ["William Poromaa", "Calle Halfvarsson"],
+      "url": "https://www.fis-ski.com/"
+    },
+    {
+      "id": 556,
+      "competition": "Alpine World Cup",
+      "name": "World Cup Åre - Slalom Women",
+      "date": "2024-12-15",
+      "time": "10:00",
+      "timezone": "Europe/Stockholm",
+      "discipline": "Alpine",
+      "location": "Åre, SWE",
+      "athletes": ["Sara Hector", "Anna Swenn-Larsson"],
+      "url": "https://www.fis-ski.com/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 101,
+      "competition": "Allsvenskan",
+      "homeTeam": {"name": "AIK"},
+      "awayTeam": {"name": "Djurgården"},
+      "startDate": "2024-08-01T17:00:00+02:00",
+      "venue": "Friends Arena",
+      "tvChannel": "Discovery+",
+      "url": "https://www.allsvenskan.se/"
+    },
+    {
+      "id": 102,
+      "competition": "Damallsvenskan",
+      "homeTeam": {"name": "Hammarby"},
+      "awayTeam": {"name": "BK Häcken"},
+      "startDate": "2024-08-03T15:00:00+02:00",
+      "venue": "Tele2 Arena",
+      "tvChannel": "Viaplay",
+      "url": "https://www.damallsvenskan.se/"
+    }
+  ]
+}
